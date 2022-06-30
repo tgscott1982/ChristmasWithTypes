@@ -8,7 +8,7 @@ namespace ChristmasWithTypes
         {
             var xmas = new Christmas();
 
-            var xmasDay = Christmas.Day.Thursday;
+            var xmasDay = Christmas.Day.Doomsday;
 
             //DONE set Santa's name
             xmas.Santa = "Gandalf";
